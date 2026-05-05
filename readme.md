@@ -8,7 +8,10 @@
 ---
 
 # 🌌 Juan MeNeZes
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AppSec+%26+Logic+Auditor;AI+Automation+Engineer;Math+Enthusiast" alt="Typing SVG" />
+</div>
 
 
 ---
