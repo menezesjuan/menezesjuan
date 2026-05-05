@@ -10,7 +10,7 @@
 # 🌌 Juan MeNeZes
 
 <div align="center">
-  <img src="./github_banner.png" alt="Banner Juan MeNeZes" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Juan%20MeNeZes&fontSize=70&animation=fadeIn" alt="Juan MeNeZes Banner" />
 </div>
 
 <div align="center">
@@ -98,9 +98,10 @@ Soy desarrollador y estudiante de **Matemáticas** en el **Instituto Federal de 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menezesjuan&show_icons=true&theme=tokyonight&count_private=true" alt="Juan's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menezesjuan&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menezesjuan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menezesjuan&theme=tokyonight" alt="Juan's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=menezesjuan&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -111,7 +112,7 @@ Soy desarrollador y estudiante de **Matemáticas** en el **Instituto Federal de 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mnz.juanmenezes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
