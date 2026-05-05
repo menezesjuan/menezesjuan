@@ -8,14 +8,8 @@
 ---
 
 # 🌌 Juan MeNeZes
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Juan%20MeNeZes&fontSize=70&animation=fadeIn" alt="Juan MeNeZes Banner" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AppSec+%26+Logic+Auditor;AI+Automation+Engineer;Math+Enthusiast" alt="Typing SVG" />
-</div>
+
 
 ---
 
@@ -98,10 +92,9 @@ Soy desarrollador y estudiante de **Matemáticas** en el **Instituto Federal de 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menezesjuan&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <br/>
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=menezesjuan&theme=tokyonight" alt="Juan's Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=menezesjuan&theme=tokyonight" alt="Top Languages" />
+
 </div>
 
 ---
