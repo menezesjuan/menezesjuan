@@ -127,19 +127,10 @@
   <tr>
     <td align="center" valign="middle">
       <br/>
-      <b>Acesso Rápido & Portfólio</b>
+      <b>Portfólio</b>
       <br/><br/>
       <a href="https://desenvolve.site">
         <img src="https://img.shields.io/badge/Desenvolve.Site-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" alt="Desenvolve Site" />
-      </a>&nbsp;&nbsp;
-      <a href="https://github.com/menezesjuan">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>&nbsp;&nbsp;
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>&nbsp;&nbsp;
-      <a href="mailto:mnz.juanmenezes@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
       <br/><br/>
     </td>
@@ -272,19 +263,10 @@
   <tr>
     <td align="center" valign="middle">
       <br/>
-      <b>Quick Access & Portfolio</b>
+      <b>Portfolio</b>
       <br/><br/>
       <a href="https://desenvolve.site">
         <img src="https://img.shields.io/badge/Desenvolve.Site-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" alt="Desenvolve Site" />
-      </a>&nbsp;&nbsp;
-      <a href="https://github.com/menezesjuan">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>&nbsp;&nbsp;
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>&nbsp;&nbsp;
-      <a href="mailto:mnz.juanmenezes@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
       <br/><br/>
     </td>
@@ -417,19 +399,10 @@
   <tr>
     <td align="center" valign="middle">
       <br/>
-      <b>Acceso Rápido y Portafolio</b>
+      <b>Portafolio</b>
       <br/><br/>
       <a href="https://desenvolve.site">
         <img src="https://img.shields.io/badge/Desenvolve.Site-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" alt="Desenvolve Site" />
-      </a>&nbsp;&nbsp;
-      <a href="https://github.com/menezesjuan">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>&nbsp;&nbsp;
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>&nbsp;&nbsp;
-      <a href="mailto:mnz.juanmenezes@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
       <br/><br/>
     </td>
@@ -562,19 +535,10 @@
   <tr>
     <td align="center" valign="middle">
       <br/>
-      <b>快速通道 & 作品集</b>
+      <b>作品集</b>
       <br/><br/>
       <a href="https://desenvolve.site">
         <img src="https://img.shields.io/badge/Desenvolve.Site-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" alt="Desenvolve Site" />
-      </a>&nbsp;&nbsp;
-      <a href="https://github.com/menezesjuan">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>&nbsp;&nbsp;
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>&nbsp;&nbsp;
-      <a href="mailto:mnz.juanmenezes@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
       </a>
       <br/><br/>
     </td>
