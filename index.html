@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juan MeNeZes | Portfolio</title>
+    
+    <!-- Meta Tags SEO -->
+    <meta name="description" content="Portfolio Bento Grid de Juan MeNeZes - Desenvolvedor Full-Stack, Auditor AppSec e Acadêmico de Matemática. Veja minha experiência, stack e projetos.">
+    <meta name="keywords" content="Juan MeNeZes, Desenvolvedor Full Stack, AppSec, Auditoria de Lógica, Matemática IFSP, Portfolio, Bento Grid">
+    <meta name="author" content="Juan MeNeZes">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Juan MeNeZes | Bento Portfolio">
+    <meta property="og:description" content="Combinação de rigor matemático, elegância de Clean Code e segurança cibernética (AppSec).">
+    <meta property="og:image" content="./assets/avatar.png">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Background Glow Elements -->
+    <div class="bg-glow bg-glow-1"></div>
+    <div class="bg-glow bg-glow-2"></div>
+
+    <!-- Floating Translation Control -->
+    <div class="lang-toggle-container">
+        <button class="lang-btn active" data-lang="pt" id="btn-pt">PT</button>
+        <button class="lang-btn" data-lang="en" id="btn-en">EN</button>
+    </div>
+
+    <div class="bento-container">
+        <!-- SEÇÃO PRINCIPAL (HEADER/BIO) -->
+        
+        <!-- CARD DE AVATAR (Span 4) -->
+        <div class="bento-card card-avatar" id="card-avatar">
+            <div class="card-glow"></div>
+            <div class="avatar-wrapper">
+                <img src="./assets/avatar.png" alt="Juan MeNeZes 3D Avatar" class="avatar-img">
+            </div>
+        </div>
+
+        <!-- CARD DE APRESENTAÇÃO/BIO (Span 8) -->
+        <div class="bento-card card-bio" id="card-bio">
+            <div class="card-glow"></div>
+            <div class="bio-content">
+                <h1 class="bio-greeting" data-pt="Olá, eu sou o Juan MeNeZes" data-en="Hi, I'm Juan MeNeZes">Olá, eu sou o Juan MeNeZes</h1>
+                <p class="bio-description" data-pt="Sou desenvolvedor Full-Stack, auditor de lógica em segurança de aplicações (AppSec) e graduando em Matemática pelo IFSP. Unindo o rigor lógico, o Clean Code e a mentalidade de auditor para desenhar sistemas escaláveis e ultra-resilientes." data-en="I am a Full-Stack developer, application security (AppSec) business logic auditor, and Mathematics student at IFSP. Combining analytical rigor, Clean Code, and an auditor mindset to design scalable and ultra-resilient systems.">
+                    Sou desenvolvedor Full-Stack, auditor de lógica em segurança de aplicações (AppSec) e graduando em Matemática pelo IFSP. Unindo o rigor lógico, o Clean Code e a mentalidade de auditor para desenhar sistemas escaláveis e ultra-resilientes.
+                </p>
+                
+                <!-- Interests Sub-section inside bio -->
+                <div class="interests-container">
+                    <span class="interests-label" data-pt="Interesses" data-en="Interests">Interesses</span>
+                    <div class="interests-divider"></div>
+                    <div class="interests-chips">
+                        <div class="interest-chip">
+                            <span class="chip-icon">🎮</span>
+                            <span class="chip-text" data-pt="Gaming" data-en="Gaming">Gaming</span>
+                        </div>
+                        <div class="interest-chip">
+                            <span class="chip-icon">📐</span>
+                            <span class="chip-text" data-pt="Matemática" data-en="Mathematics">Matemática</span>
+                        </div>
+                        <div class="interest-chip">
+                            <span class="chip-icon">🛡️</span>
+                            <span class="chip-text" data-pt="Auditoria Sec" data-en="AppSec Audit">Auditoria Sec</span>
+                        </div>
+                        <div class="interest-chip">
+                            <span class="chip-icon">✈️</span>
+                            <span class="chip-text" data-pt="Viagens" data-en="Traveling">Viagens</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- EXPERIÊNCIA E TRABALHO -->
+
+        <!-- CARD EXPERIÊNCIA 1 - Full-Stack Developer (Span 6) -->
+        <div class="bento-card card-experience" id="card-exp-1">
+            <div class="card-glow"></div>
+            <div class="exp-header">
+                <div>
+                    <h2 class="exp-title" data-pt="Full-Stack Dev" data-en="Full-Stack Dev">Full-Stack Dev</h2>
+                    <a href="https://desenvolve.site" target="_blank" rel="noopener noreferrer" class="exp-company">Desenvolve.Site ↗</a>
+                </div>
+                <span class="exp-date" data-pt="2022 - atual" data-en="2022 - now">2022 - atual</span>
+            </div>
+            <div class="exp-divider"></div>
+            <ul class="exp-list">
+                <li data-pt="Colaboração ativa no desenvolvimento de plataformas web dinâmicas." data-en="Active collaboration in developing dynamic web platforms.">Colaboração ativa no desenvolvimento de plataformas web dinâmicas.</li>
+                <li data-pt="Criação de interfaces modulares utilizando React, Vite e ecossistema moderno." data-en="Building modular interfaces using React, Vite, and modern ecosystems.">Criação de interfaces modulares utilizando React, Vite e ecossistema moderno.</li>
+                <li data-pt="Desenvolvimento de lógicas server-side eficientes e robustas." data-en="Development of efficient and robust server-side logics.">Desenvolvimento de lógicas server-side eficientes e robustas.</li>
+                <li data-pt="Foco constante em boas práticas de engenharia de software e UX fluida." data-en="Constant focus on software engineering best practices and fluid UX.">Foco constante em boas práticas de engenharia de software e UX fluida.</li>
+            </ul>
+        </div>
+
+        <!-- CARD EXPERIÊNCIA 2 - AppSec Auditor (Span 6) -->
+        <div class="bento-card card-experience" id="card-exp-2">
+            <div class="card-glow"></div>
+            <div class="exp-header">
+                <div>
+                    <h2 class="exp-title" data-pt="Auditor AppSec" data-en="AppSec Auditor">Auditor AppSec</h2>
+                    <span class="exp-company" data-pt="Projetos & Lógica" data-en="Projects & Logic">Projetos & Lógica</span>
+                </div>
+                <span class="exp-date" data-pt="2021 - atual" data-en="2021 - now">2021 - atual</span>
+            </div>
+            <div class="exp-divider"></div>
+            <ul class="exp-list">
+                <li data-pt="Especialista em Auditoria de Lógica de Negócios e vetores de exploração complexos." data-en="Specialist in Business Logic Auditing and complex exploitation vectors.">Especialista em Auditoria de Lógica de Negócios e vetores de exploração complexos.</li>
+                <li data-pt="Identificação proativa de brechas lógicas de APIs como BOLA (IDOR) e BFLA." data-en="Proactive detection of API logical flaws such as BOLA (IDOR) and BFLA.">Identificação proativa de brechas lógicas de APIs como BOLA (IDOR) e BFLA.</li>
+                <li data-pt="Auditor de código fonte em ecossistemas de alta tipagem e segurança (Java/Swift)." data-en="Source code auditor in strongly-typed, secure environments (Java/Swift).">Auditor de código fonte em ecossistemas de alta tipagem e segurança (Java/Swift).</li>
+                <li data-pt="Arquitetura de sistemas orientada a Threat Modeling e contenção de ataques." data-en="System architecture oriented around Threat Modeling and attack mitigation.">Arquitetura de sistemas orientada a Threat Modeling e contenção de ataques.</li>
+            </ul>
+        </div>
+
+        <!-- TOOLS E EDUCAÇÃO -->
+
+        <!-- SUB-GRID DE FERRAMENTAS (Span 5) -->
+        <div class="bento-card card-tools" id="card-tools">
+            <div class="card-glow"></div>
+            
+            <!-- Design & Frontend Tools -->
+            <div class="tools-row">
+                <span class="row-label" data-pt="Frontend & Web" data-en="Frontend & Web">Frontend & Web</span>
+                <div class="row-divider"></div>
+                <div class="tools-badges">
+                    <!-- React (Cyan) -->
+                    <div class="tool-badge-item" title="React">
+                        <svg class="tool-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="12" r="2" fill="#61DAFB"/>
+                            <ellipse cx="12" cy="12" rx="10" ry="3.8" stroke="#61DAFB" transform="rotate(30 12 12)"/>
+                            <ellipse cx="12" cy="12" rx="10" ry="3.8" stroke="#61DAFB" transform="rotate(90 12 12)"/>
+                            <ellipse cx="12" cy="12" rx="10" ry="3.8" stroke="#61DAFB" transform="rotate(150 12 12)"/>
+                        </svg>
+                    </div>
+                    <!-- Vite (Purple/Orange) -->
+                    <div class="tool-badge-item" title="Vite">
+                        <svg class="tool-icon" viewBox="0 0 24 24" fill="none">
+                            <path d="M12 2L2 5l10 17L22 5L12 2z" fill="url(#viteGradient)"/>
+                            <path d="M18 4l-7 8h5l-6 10V10h-4l7-8z" fill="#FFC517"/>
+                            <defs>
+                                <linearGradient id="viteGradient" x1="0" y1="0" x2="1" y2="1">
+                                    <stop offset="0%" stop-color="#BD34FE"/>
+                                    <stop offset="100%" stop-color="#41B883"/>
+                                </linearGradient>
+                            </defs>
+                        </svg>
+                    </div>
+                    <!-- TypeScript (Blue) -->
+                    <div class="tool-badge-item" title="TypeScript">
+                        <svg class="tool-icon" viewBox="0 0 24 24" fill="none">
+                            <rect width="24" height="24" rx="4" fill="#3178C6"/>
+                            <text x="13" y="18" fill="#FFF" font-family="Plus Jakarta Sans" font-weight="bold" font-size="12">TS</text>
+                        </svg>
+                    </div>
+                    <!-- Tailwind (Cyan/Teal) -->
+                    <div class="tool-badge-item" title="Tailwind CSS">
+                        <svg class="tool-icon" viewBox="0 0 24 24" fill="none">
+                            <path d="M12 6.002C10.5 3 7.5 3 6 4.5c-2.25 2.25-1.5 6 3 7.5-3 0-5.25 2.25-6 4.5-.75 2.25 1.5 4.5 4.5 4.5 4.5 0 6.75-3.75 7.5-6 .75-2.25 3-3.75 6-3.75 2.25 0 3.75 1.5 4.5 3.75.75 2.25-.75 4.5-3.75 4.5 3 0 6-3 6-6 0-4.5-3.75-6.75-6-7.5-.75-.25-2.25-1.5-3-3.748z" fill="#38BDF8"/>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Systems & Languages Tools -->
+            <div class="tools-row">
+                <span class="row-label" data-pt="Sistemas & Backend" data-en="Systems & Backend">Sistemas & Backend</span>
+                <div class="row-divider"></div>
+                <div class="tools-badges">
+                    <!-- Java -->
+                    <div class="tool-badge-item" title="Java">
+                        <svg class="tool-icon" viewBox="0 0 24 24" fill="none">
+                            <path d="M6 16c0 1.5 1 2.5 3 2.5s3-1 3-2.5V8H6v8z" fill="#f89820"/>
+                            <path d="M12 5c-1-1.5-3-2-3-2s-1 .5-1 1.5S10 7 12 8V5z" fill="#5382a1"/>
+                            <path d="M15 11c-.5-.8-1.5-1.2-1.5-1.2s-.5.3-.2.8c.4.7 1.2 1.4 1.2 2.2 0 1.5-1.5 2-1.5 2H6s1 1 3 1 4-1 4-3c0-.8-.3-1.4-.5-1.8z" fill="#f89820"/>
+                        </svg>
+                    </div>
+                    <!-- Swift (Orange) -->
+                    <div class="tool-badge-item" title="Swift">
+                        <svg class="tool-icon" viewBox="0 0 24 24" fill="none">
+                            <path d="M3 18.5C3.5 19 6.5 21 11 19c-3-.5-5-2.5-6-4.5 5 4 10 3.5 13 .5-3.5 1-7.5.5-10.5-2 6 3 11.5.5 13.5-2.5-4 1.5-8 .5-10.5-2 7 2.5 11.5-1 12-4.5-4.5 3.5-9 2-11.5.5-1-1-1.5-2.5-1.5-4.5v11.5z" fill="url(#swiftGradient)"/>
+                            <defs>
+                                <linearGradient id="swiftGradient" x1="0" y1="0" x2="1" y2="1">
+                                    <stop offset="0%" stop-color="#FF5B26"/>
+                                    <stop offset="100%" stop-color="#FF2417"/>
+                                </linearGradient>
+                            </defs>
+                        </svg>
+                    </div>
+                    <!-- Python (Blue/Yellow) -->
+                    <div class="tool-badge-item" title="Python">
+                        <svg class="tool-icon" viewBox="0 0 24 24" fill="none">
+                            <path d="M12 2C6.5 2 6.5 3 6.5 5.5v2.3h5.5v.7H4.3C2 8.5 2 9.5 2 13.5c0 3.5.5 4.5 2.8 4.5h2.2v-2.8c0-2.3 1.2-3.8 3.5-3.8h5.5V8.6C16 4.3 15 2 12 2z" fill="#3776AB"/>
+                            <path d="M12 22c5.5 0 5.5-1 5.5-3.5v-2.3h-5.5v-.7h7.7C22 15.5 22 14.5 22 10.5c0-3.5-.5-4.5-2.8-4.5h-2.2v2.8c0 2.3-1.2 3.8-3.5 3.8H8v2.8C8 19.7 9 22 12 22z" fill="#FFE052"/>
+                        </svg>
+                    </div>
+                    <!-- Docker (Blue Whale) -->
+                    <div class="tool-badge-item" title="Docker">
+                        <svg class="tool-icon" viewBox="0 0 24 24" fill="none">
+                            <path d="M2 13.5c0-1.7 1.3-3 3-3 .3 0 .5 0 .8.1 1.2-2.3 3.6-3.8 6.2-3.8s5 1.5 6.2 3.8c.3-.1.5-.1.8-.1 1.7 0 3 1.3 3 3s-1.3 3-3 3H5c-1.7 0-3-1.3-3-3z" fill="#2496ED"/>
+                            <rect x="7" y="4" width="2" height="2" rx="0.5" fill="#2496ED"/>
+                            <rect x="10" y="4" width="2" height="2" rx="0.5" fill="#2496ED"/>
+                            <rect x="13" y="4" width="2" height="2" rx="0.5" fill="#2496ED"/>
+                            <rect x="8.5" y="1.5" width="2" height="2" rx="0.5" fill="#2496ED"/>
+                            <rect x="11.5" y="1.5" width="2" height="2" rx="0.5" fill="#2496ED"/>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Languages row -->
+            <div class="tools-row">
+                <span class="row-label" data-pt="Idiomas" data-en="Languages">Idiomas</span>
+                <div class="row-divider"></div>
+                <div class="languages-flags">
+                    <span class="flag-item" title="Português">🇧🇷</span>
+                    <span class="flag-item" title="English">🇺🇸</span>
+                    <span class="flag-item" title="Español">🇪🇸</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- TIMELINE EDUCACIONAL E CERTIFICAÇÕES (Span 7) -->
+        <div class="bento-card card-education" id="card-education">
+            <div class="card-glow"></div>
+            
+            <div class="edu-item">
+                <div class="edu-dot-container">
+                    <div class="edu-dot active"></div>
+                    <div class="edu-line"></div>
+                </div>
+                <div class="edu-details">
+                    <div class="edu-meta">
+                        <span class="edu-badge" data-pt="Graduação" data-en="BSc Degree">Graduação</span>
+                        <span class="edu-year">2022 - 2026</span>
+                    </div>
+                    <h3 class="edu-title" data-pt="Bacharelado em Matemática" data-en="Bachelor of Mathematics">Bacharelado em Matemática</h3>
+                    <p class="edu-place" data-pt="IFSP - Instituto Federal de São Paulo (Bragança Paulista)" data-en="IFSP - Federal Institute of São Paulo (Bragança Paulista)">IFSP - Instituto Federal de São Paulo (Bragança Paulista)</p>
+                </div>
+            </div>
+
+            <div class="edu-item">
+                <div class="edu-dot-container">
+                    <div class="edu-dot"></div>
+                    <div class="edu-line"></div>
+                </div>
+                <div class="edu-details">
+                    <div class="edu-meta">
+                        <span class="edu-badge" data-pt="Certificação" data-en="Certificate">Certificação</span>
+                        <span class="edu-year">2023</span>
+                    </div>
+                    <h3 class="edu-title" data-pt="Apple Swift Developer" data-en="Apple Swift Developer">Apple Swift Developer</h3>
+                    <p class="edu-place" data-pt="Certificação de Capacitação em Swift" data-en="Swift Proficiency Credentials">Certificação de Capacitação em Swift</p>
+                </div>
+            </div>
+
+            <div class="edu-item">
+                <div class="edu-dot-container">
+                    <div class="edu-dot"></div>
+                </div>
+                <div class="edu-details">
+                    <div class="edu-meta">
+                        <span class="edu-badge" data-pt="Certificação" data-en="Certificate">Certificação</span>
+                        <span class="edu-year">2022</span>
+                    </div>
+                    <h3 class="edu-title" data-pt="Java & Java JSF Testing" data-en="Java & Java JSF Testing">Java & Java JSF Testing</h3>
+                    <p class="edu-place" data-pt="Capacitação em Testes de Lógica e Sistemas legados" data-en="Logical Testing & Legacy Systems Proficiency">Capacitação em Testes de Lógica e Sistemas legados</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- PORTFÓLIO E ACESSO RÁPIDO (Span 12) -->
+        <div class="bento-card card-portfolio" id="card-portfolio">
+            <div class="card-glow"></div>
+            <div class="portfolio-container">
+                <span class="portfolio-label" data-pt="Portfólio" data-en="Portfolio">Portfólio</span>
+                <div class="portfolio-divider"></div>
+                <div class="portfolio-links">
+                    <a href="https://desenvolve.site" target="_blank" rel="noopener noreferrer" class="portfolio-link-chip">
+                        <span class="chip-brand-dot dsite-dot"></span>
+                        <span class="chip-link-text">Desenvolve.Site</span>
+                    </a>
+                    <a href="https://github.com/menezesjuan" target="_blank" rel="noopener noreferrer" class="portfolio-link-chip">
+                        <svg class="chip-icon-svg" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+                        </svg>
+                        <span class="chip-link-text">GitHub</span>
+                    </a>
+                    <a href="https://linkedin.com/in/menezesjuan" target="_blank" rel="noopener noreferrer" class="portfolio-link-chip">
+                        <svg class="chip-icon-svg" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.779-1.75-1.75s.784-1.75 1.75-1.75 1.75.779 1.75 1.75-.784 1.75-1.75 1.75zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+                        </svg>
+                        <span class="chip-link-text">LinkedIn</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- DETALHES DE INFORMAÇÕES PESSOAIS (Span 12) -->
+        <div class="bento-card card-details" id="card-details">
+            <div class="card-glow"></div>
+            <div class="details-wrapper">
+                <span class="details-label" data-pt="Detalhes" data-en="Details">Detalhes</span>
+                <div class="details-divider"></div>
+                <div class="details-grid">
+                    <!-- Idade -->
+                    <div class="detail-item-chip">
+                        <span class="detail-icon">👨‍💻</span>
+                        <span class="detail-val" data-pt="Estudante / Auditor" data-en="Student / Auditor">Estudante / Auditor</span>
+                    </div>
+                    <!-- Email Copiável -->
+                    <button class="detail-item-chip copy-trigger" id="copy-email-btn" data-clipboard="mnz.juanmenezes@gmail.com" title="Copiar e-mail">
+                        <span class="detail-icon">✉️</span>
+                        <span class="detail-val">mnz.juanmenezes@gmail.com</span>
+                        <span class="copy-feedback-toast" data-pt="Copiado!" data-en="Copied!">Copiado!</span>
+                    </button>
+                    <!-- Localização -->
+                    <div class="detail-item-chip">
+                        <span class="detail-icon">📍</span>
+                        <span class="detail-val">Bragança Paulista - SP</span>
+                    </div>
+                    <!-- País -->
+                    <div class="detail-item-chip">
+                        <span class="detail-icon">🇧🇷</span>
+                        <span class="detail-val" data-pt="Brasil" data-en="Brazil">Brasil</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Background music or dynamic audio hints can go here. Let's make it look super crisp. -->
+
+    <!-- Custom Script -->
+    <script src="script.js"></script>
+</body>
+</html>
