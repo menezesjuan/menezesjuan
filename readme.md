@@ -34,11 +34,12 @@
         <tr>
           <td><b>Interesses:</b></td>
           <td>
-            <code>🎮 Gaming</code>&nbsp;
             <code>📐 Matemática</code>&nbsp;
-            <code>🛡️ Auditoria AppSec</code>&nbsp;
-            <code>🦾 Automação IA</code>&nbsp;
-            <code>✈️ Viagens</code>
+            <code>🤖 IA's</code>&nbsp;
+            <code>🎮 Gaming</code>&nbsp;
+            <code>✈️ Viagens</code>&nbsp;
+            <code>🟢 Node.js</code>&nbsp;
+            <code>💼 Freelancer</code>
           </td>
         </tr>
       </table>
@@ -170,11 +171,12 @@
         <tr>
           <td><b>Interests:</b></td>
           <td>
-            <code>🎮 Gaming</code>&nbsp;
             <code>📐 Mathematics</code>&nbsp;
-            <code>🛡️ AppSec Audit</code>&nbsp;
-            <code>🦾 AI Automation</code>&nbsp;
-            <code>✈️ Traveling</code>
+            <code>🤖 AI's</code>&nbsp;
+            <code>🎮 Gaming</code>&nbsp;
+            <code>✈️ Traveling</code>&nbsp;
+            <code>🟢 Node.js</code>&nbsp;
+            <code>💼 Freelancer</code>
           </td>
         </tr>
       </table>
@@ -306,11 +308,12 @@
         <tr>
           <td><b>Intereses:</b></td>
           <td>
-            <code>🎮 Gaming</code>&nbsp;
             <code>📐 Matemáticas</code>&nbsp;
-            <code>🛡️ Auditoría AppSec</code>&nbsp;
-            <code>🦾 Automatización IA</code>&nbsp;
-            <code>✈️ Viajes</code>
+            <code>🤖 IA</code>&nbsp;
+            <code>🎮 Gaming</code>&nbsp;
+            <code>✈️ Viajes</code>&nbsp;
+            <code>🟢 Node.js</code>&nbsp;
+            <code>💼 Freelancer</code>
           </td>
         </tr>
       </table>
@@ -442,11 +445,12 @@
         <tr>
           <td><b>兴趣:</b></td>
           <td>
-            <code>🎮 游戏</code>&nbsp;
             <code>📐 数学</code>&nbsp;
-            <code>🛡️ AppSec 审计</code>&nbsp;
-            <code>🦾 人工智能自动化</code>&nbsp;
-            <code>✈️ 旅游</code>
+            <code>🤖 人工智能</code>&nbsp;
+            <code>🎮 游戏</code>&nbsp;
+            <code>✈️ 旅游</code>&nbsp;
+            <code>🟢 Node.js</code>&nbsp;
+            <code>💼 自由职业</code>
           </td>
         </tr>
       </table>
