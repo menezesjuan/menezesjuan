@@ -113,12 +113,36 @@
   </tr>
 </table>
 
+<!--
 <table width="100%">
-  <!-- Row 4: Portfolio Links -->
+  <!-- Row: Featured Repositories (Descomente quando tiver repositórios públicos prontos) -->
+  <tr>
+    <th colspan="2" align="left">
+      <h3>🚀 Featured Repositories</h3>
+      <hr/>
+    </th>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/menezesjuan/SEU_REPO_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=menezesjuan&repo=SEU_REPO_1&theme=tokyonight&border_radius=12" alt="Project 1" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/menezesjuan/SEU_REPO_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=menezesjuan&repo=SEU_REPO_2&theme=tokyonight&border_radius=12" alt="Project 2" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+-->
+
+<table width="100%">
+  <!-- Row 5: Portfolio Links -->
   <tr>
     <td align="center" valign="middle">
       <br/>
-      <b>Portfolio</b>
+      <b>Portfolio & Live Platforms</b>
       <br/><br/>
       <a href="https://desenvolve.site">
         <img src="https://img.shields.io/badge/Desenvolve.Site-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white" alt="Desenvolve Site" />
@@ -129,7 +153,7 @@
 </table>
 
 <table width="100%">
-  <!-- Row 5: Personal Details -->
+  <!-- Row 6: Personal Details -->
   <tr>
     <td align="center" valign="middle">
       <code>🎂 22 Years Old</code> &nbsp;|&nbsp; 
