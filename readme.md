@@ -133,7 +133,7 @@
   <!-- Row 6: Personal Details -->
   <tr>
     <td align="center" valign="middle">
-      <code>🎂 22 Years Old</code> &nbsp;|&nbsp; 
+      <code>🎂 31 Years Old</code> &nbsp;|&nbsp; 
       <code>✉️ mnz.juanmenezes@gmail.com</code> &nbsp;|&nbsp; 
       <code>📍 Bragança Paulista - SP, Brazil</code> &nbsp;|&nbsp; 
       <code>🇧🇷 Brazil</code>
