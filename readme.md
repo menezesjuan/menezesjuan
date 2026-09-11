@@ -113,6 +113,27 @@
   </tr>
 </table>
 
+<table width="100%">
+  <!-- Row 4: Featured Repositories -->
+  <tr>
+    <th colspan="2" align="left">
+      <h3>🚀 Featured Repositories</h3>
+      <hr/>
+    </th>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/menezesjuan/Weather-app">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=menezesjuan&repo=Weather-app&theme=tokyonight&border_radius=12" alt="Weather-app" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/menezesjuan/multi-step-form-main">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=menezesjuan&repo=multi-step-form-main&theme=tokyonight&border_radius=12" alt="multi-step-form-main" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <table width="100%">
   <!-- Row 5: Portfolio Links -->
