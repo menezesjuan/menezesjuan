@@ -88,9 +88,9 @@
       <hr/>
       <table>
         <tr>
-          <td>🟢</td>
+          <td>🟠</td>
           <td>
-            <b>Graduation — 2022 - 2026</b><br/>
+            <b>Graduation (Cursando) — 2022 - 2026</b><br/>
             BSc in Mathematics — IFSP Bragança Paulista
           </td>
         </tr>
