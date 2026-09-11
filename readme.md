@@ -136,9 +136,14 @@
 </table>
 
 <table width="100%">
-  <!-- Row 5: Portfolio Links -->
+  <!-- Row 5: GitHub Stats & Portfolio Links -->
   <tr>
-    <td align="center" valign="middle">
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/menezesjuan">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=menezesjuan&show_icons=true&theme=tokyonight&border_radius=12" alt="Juan's GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
       <br/>
       <b>Portfolio & Live Platforms</b>
       <br/><br/>
