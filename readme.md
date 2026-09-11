@@ -81,7 +81,6 @@
       <code>🇧🇷 Portuguese (Native)</code><br/>
       <code>🇺🇸 English (Proficient)</code><br/>
       <code>🇪🇸 Spanish (Intermediate)</code><br/>
-      <code>🇨🇳 Chinese / Mandarin (Basic)</code>
     </td>
     <td width="55%" valign="top">
       <h3>🎓 Education & Timeline</h3>
